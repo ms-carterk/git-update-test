@@ -1,7 +1,7 @@
 /**
  * Theme Name:       git-update-test
  * Theme URI:        http://thefragens.net/
- * Version:          0.1.3.1
+ * Version:          0.1.3.2
  * Description:      Child theme of none.
  * Author:           Andy Fragen
  * GitHub Theme URI: https://github.com/ms-carterk/git-update-test
@@ -48,7 +48,7 @@ img {
 	vertical-align:bottom;
 }
 a {
-	color:#444;
+	color:green;
 	text-decoration:none;
 }
 a:hover {
