@@ -1,3 +1,12 @@
+/******************************************************************
+Theme Name: Git update test
+Theme URI: https://github.com/ms-carterk/git-update-test
+Author: ms-carterk
+Author URI: https://github.com/ms-carterk
+Version: 0.1
+GitHub Theme URI: ms-carterk/git-update-test
+GitHub Theme URI: https://github.com/ms-carterk/git-update-test
+******************************************************************/
 @charset "UTF-8";
 /************************************************
 
@@ -280,10 +289,10 @@ place.
 Stylesheet: Print Stylesheet
 
 This is the print stylesheet. There's probably not a lot
-of reasons to edit this stylesheet. 
+of reasons to edit this stylesheet.
 
-Remember to add things that won't make sense to print at 
-the bottom. Things like nav, ads, and forms shouldbe set 
+Remember to add things that won't make sense to print at
+the bottom. Things like nav, ads, and forms shouldbe set
 to display none.
 ******************************************************************/
 @media print {
